@@ -11,7 +11,10 @@ Tic Tac Toe Client Server Version
 
 Features
 --------
-
+- Play with Multiplayer 
+- Nice graphics
+- Clean User Interface
+- Implemeted in java
 Screenshot
 ----------
 ![Screenshot](https://drive.google.com/uc?export=download&id=1ZVkCq12JuSbt9_uTIcjefp4XI-O_6hAa)
